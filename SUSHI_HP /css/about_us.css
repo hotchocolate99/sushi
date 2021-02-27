@@ -1,0 +1,32 @@
+.main-wrapper{
+  color:#281a14;
+  padding:50px 0;
+}
+
+.main-wrapper h1{
+  margin:50px 0;
+  text-align: center;
+  border-bottom: 5px solid #507ea4;
+}
+
+.explain{
+  margin-top:15px;
+  margin-bottom:40px;
+  padding:40px 30px;
+  background-color:#eae5e3;
+}
+
+
+/*footer color*/
+footer h3 {
+  color: white;
+}
+
+footer {
+  background-color:#281a14;
+}
+
+footer .back_top{
+  color:white;
+}
+
